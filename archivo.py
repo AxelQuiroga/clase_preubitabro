@@ -14,7 +14,7 @@ def funcion_letras(cadena):
              
             print(f"{cadena[i]} Es un string")
         else:
-            print(f"{cadena[i]} No es un string")
+            print(f"{cadena[i]} No es un string. xD")
 cadenak = "aa456" 
 opa = "elefante"
 funcion_letras(cadenak) 
